@@ -1,7 +1,8 @@
 # Hardhat-FundMe-FrontEnd
 
-->. first before testing this project you will need to run the Hardhat-Fund-Me
-->. Clone the repo https://github.com/PranavLakkadi13/Hardhat-FundMe
+-> first before testing this project you will need to run the Hardhat-Fund-Me 
+
+-> Clone the repo https://github.com/PranavLakkadi13/Hardhat-FundMe
 ->  Then do yarn init 
 ->  Then yarn hradhat node 
 ->   yarn hardhat deploy 
