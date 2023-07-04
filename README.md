@@ -9,5 +9,5 @@
 
 after the code is running then you can run the liveserver for the front end 
 
--> add the hardhat account to metamask by adding your custom rpc and importing the private 
--> Your front end is now ready to be used
+-> add the hardhat account to metamask by adding your custom rpc (Of the the hardhat Node) and importing the private Key
+-> Your front end is now ready 
